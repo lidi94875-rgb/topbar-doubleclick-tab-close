@@ -1,8 +1,8 @@
-# Chromium Double-Click Close Tab / Chromium 双击顶部关闭标签页
+# TopBar DoubleClick Tab Close / 顶部栏双击关闭标签页
 
 ## 中文说明
 
-这是一个基于 Chromium 源码定制编译的浏览器版本，不是 Chrome 扩展程序。
+`TopBar DoubleClick Tab Close` 是一个基于 Chromium 源码定制编译的浏览器功能，不是 Chrome 扩展程序。
 
 它增加了一个小功能：在浏览器窗口顶部区域双击鼠标左键时，关闭当前活动标签页。
 
@@ -70,7 +70,7 @@ autoninja -C out\DoubleClickClose chrome -j 8
 
 ## English
 
-This is a custom-built Chromium browser, not a Chrome extension.
+`TopBar DoubleClick Tab Close` is a custom Chromium browser feature, not a Chrome extension.
 
 It adds one small behavior: double-clicking the top area of the browser window with the left mouse button closes the current active tab.
 

@@ -1,4 +1,6 @@
-# Chromium 双击顶部关闭标签页
+# TopBar DoubleClick Tab Close
+
+中文名：顶部栏双击关闭标签页
 
 这是一个基于 Chromium 源码定制编译的浏览器版本，不是 Chrome 扩展程序。
 

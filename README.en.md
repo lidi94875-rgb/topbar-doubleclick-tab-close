@@ -1,6 +1,6 @@
-# Chromium Double-Click Close Tab
+# TopBar DoubleClick Tab Close
 
-This is a custom-built Chromium browser, not a Chrome extension.
+This is a custom Chromium browser feature, not a Chrome extension.
 
 Features:
 
